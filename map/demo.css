@@ -1,0 +1,12 @@
+.demo-wrapper {
+  position: fixed;
+  box-sizing: border-box;
+  bottom: 0px;
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+.demo-container {
+
+}

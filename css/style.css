@@ -279,8 +279,8 @@ h5{
 }
 
 .image-about {
-    width: auto;
-    height: 20vh;
+    /* width: auto; */
+    height: 9.5vw;
 	max-height: fit-content;
 }
 .fondoicono{
